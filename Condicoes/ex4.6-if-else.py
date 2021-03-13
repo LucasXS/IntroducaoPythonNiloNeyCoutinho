@@ -1,4 +1,4 @@
-# Programa 4.6 - Categoria x produtos usando o if e else
+# Programa 4.6 - Categoria x produtos usando o if e else!
 categoria = int(input('Digite a categoria do produto: '))
 if categoria == 1:
     preco = 10
