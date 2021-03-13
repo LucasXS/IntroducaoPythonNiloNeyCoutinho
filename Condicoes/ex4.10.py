@@ -1,4 +1,4 @@
-# programa 4.9 - pagamento pelo fornecimento de energia eletrica
+# Programa 4.9 - pagamento pelo fornecimento de energia elétrica
 print("""
 [R]= Residencial
 [I]= Industrial
