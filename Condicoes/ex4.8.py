@@ -1,4 +1,4 @@
-
+# Programa 4.8  - Calculadora Simples
 num1 = float(input('Nº1: '))
 operador = str(input('Operador [+] [-] [*] [/]: '))
 num2 = float(input('Nº2: '))
