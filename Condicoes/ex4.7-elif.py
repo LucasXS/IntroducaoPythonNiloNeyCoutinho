@@ -1,4 +1,4 @@
-# Programa 4.7 - Categoria x produtos usando o ELIF
+# Programa 4.7 - Categoria x produtos usando o ELIF!
 categoria = int(input('Digite a categoria do produto: '))
 if categoria == 1:
     preco = 10
