@@ -1,5 +1,4 @@
-# Programa 4.3  -Conta de telefone com três faixas de preço
-
+# Programa 4.3 - Conta de telefone com três faixas de preço!
 valorMinutos = int(input('Quantos minutos foram usados este mês? '))
 minuto = valorMinutos
 preco = 0
